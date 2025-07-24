@@ -6,7 +6,6 @@ RENCANA BELAJAR FARISCHA
 *MTK
 ^Diagram
 *IPA
--Olahraga
 -GITHUB
 -Python
 -Java
