@@ -4,6 +4,7 @@ RENCANA BELAJAR FARISCHA
 -Javascript
 -TKA
 *MTK
+^Aljabar
 *IPA
--Olahraga
 -GITHUB
+-Laravel
